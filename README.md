@@ -21,6 +21,7 @@
 
 ### Version Control & Collaboration Tools  
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![subversion](https://img.shields.io/badge/Subversion-809CC9.svg?&style=for-the-badge&logo=Subversion&logoColor=white)
 
 ### IDEs & Development Tools  
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
