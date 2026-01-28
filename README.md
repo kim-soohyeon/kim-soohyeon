@@ -13,6 +13,7 @@
 
 # 💪GitHub stats
 <!--![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)-->
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjU5MzgyNzA3)](https://www.git-ranker.com/users/kim-soohyeon)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
 
 # 🚀Skills
